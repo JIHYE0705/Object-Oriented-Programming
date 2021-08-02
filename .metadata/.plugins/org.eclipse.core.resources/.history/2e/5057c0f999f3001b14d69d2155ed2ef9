@@ -1,0 +1,15 @@
+package ch08;
+
+public class Order {
+	
+	public String orderNumber;
+	public String customerPhone;
+	public String customerAddress;
+	public String orderDate;
+	public String orderTime;
+	public String price;
+	public String menuId;
+	
+	
+
+}
