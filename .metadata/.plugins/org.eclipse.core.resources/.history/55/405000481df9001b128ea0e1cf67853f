@@ -22,7 +22,7 @@ public class Student {
 	}
 	
 	public void takeTaxi(Taxi taxi, int price) {
-		taxi.take(price);
+		Taxi.take(price);
 		this.money -= price;
 	}
 	
