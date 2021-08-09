@@ -31,6 +31,7 @@ public class Person {
 		System.out.println(person);
 		
 		Person person2 = person.getPerson();
+		
 		System.out.println(person2);
 	}
 	
